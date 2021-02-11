@@ -13,7 +13,7 @@ I will use reinforcement learning to teach a computer to play battleship. The st
 4. Get deep Q learning implementation working on machine with the default environment.
 5. Modify the network of the deep Q learning implementation to work with battleship gym environment
    - change the dqn network to take battleship observations as input
-   - set up reward from battleship to the dqn network
+   - set up reward (winning = positive reward, losing = negative reward) from battleship to the dqn network
    (now the computer can learn)
    - connect output of dqn to gym environment so that it can take actions in my battleship game
 6. Train, Evaluate, and update hyper-parameters 
