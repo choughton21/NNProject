@@ -16,7 +16,8 @@ I will use reinforcement learning to teach a computer to play battleship. The st
    - set up reward (winning = positive reward, losing = negative reward) from battleship to the dqn network
    (now the computer can learn)
    - connect output of dqn to gym environment so that it can take actions in my battleship game
-6. Train, Evaluate, and update hyper-parameters 
+6. Train the network
+   - Run the train function from the deep q learning implementation, and look at what train.pi gives out (as it trains hopefully the reward will increase, game length will decrease, win rate will increase)
    - One evaluation method: when the network plays a random agent, how often does it win?
 7. Repeat step 6, trying to improve machine's ability to win battleship games
 
