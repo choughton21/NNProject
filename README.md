@@ -21,7 +21,3 @@ I will use deep learning to teach a computer to play battleship. The steps I pla
    - One evaluation method: when the network plays a random agent, how often does it win?
 8. Repeat step 5, trying to improve machine's ability to win battleship games
 
-Take existing Deep Q learning 
-      - is a model-free deep learning, and it works by having the network estimate the value of a board state, is it a board that is about to win (high value) give you this board state, game is just begun (less valuble), etc.)
-      - make decisions to get closer to winning boards (will look at the value of each board action possible and then look at the highest q value and take that action, then . 
-
