@@ -18,7 +18,7 @@ I will use deep learning to teach a computer to play battleship. The steps I pla
    - connect output of dqn to gym environment so that it can take actions in my battleship game
 6. Tweak Deep Q network implementation to work with battleship gym environment
 7. Train, Evaluate, and update hyper-parameters 
-   - Some evaluation methods: how long are the games of network vs. network? When the network plays a random agent, how often does it win?
+   - One evaluation method: when the network plays a random agent, how often does it win?
 8. Repeat step 5, trying to improve machine's ability to win battleship games
 
 Take existing Deep Q learning 
