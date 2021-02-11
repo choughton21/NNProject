@@ -3,7 +3,7 @@ CHoughton's Neural Network Project
 
 Battle Ship
 
-I will use deep learning to teach a computer to play battleship. The steps I plan to take/ goals are: 
+I will use reinforcement learning to teach a computer to play battleship. The steps I plan to take/ goals are: 
 
 1. Write battleship game in python
 2. Make battleship game compatible with openai gym environment
