@@ -18,5 +18,5 @@ I will use deep learning to teach a computer to play battleship. The steps I pla
    - connect output of dqn to gym environment so that it can take actions in my battleship game
 6. Train, Evaluate, and update hyper-parameters 
    - One evaluation method: when the network plays a random agent, how often does it win?
-7. Repeat step 5, trying to improve machine's ability to win battleship games
+7. Repeat step 6, trying to improve machine's ability to win battleship games
 
