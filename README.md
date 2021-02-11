@@ -7,16 +7,18 @@ I will use deep learning to teach a computer to play battleship. The steps I pla
 
 1. Write battleship game in python
 2. Make battleship game compatible with openai gym environment
-   - change the dqn network to take battleship observations as input
+ 
+3. Find a suitable reinforcement learning algorithm
+   possibly a deep Q learning implementation will work
+4. Modify the network of the deep Q learning implementation
+  - change the dqn network to take battleship observations as input
    - set up reward from battleship to the dqn network
    (now the computer can learn)
    - connect output of dqn to gym environment so that it can take actions in my battleship game
-3. Find a suitable reinforcement learning algorithm
-   possibly a deep Q learning implementation will work
-4. Get deep Q learning implementation working on machine with the default environment.
-5. Tweak Deep Q network implementation to work with battleship gym environment
-6. Train, Evaluate, and update hyper-parameters 
-7. Repeat step 5, trying to improve machine's ability to win battleship games
+5. Get deep Q learning implementation working on machine with the default environment.
+6. Tweak Deep Q network implementation to work with battleship gym environment
+7. Train, Evaluate, and update hyper-parameters 
+8. Repeat step 5, trying to improve machine's ability to win battleship games
 
 Take existing Deep Q learning 
       - is a model-free deep learning, and it works by having the network estimate the value of a board state, is it a board that is about to win (high value) give you this board state, game is just begun (less valuble), etc.)
