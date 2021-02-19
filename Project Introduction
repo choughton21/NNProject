@@ -1,2 +1,12 @@
 Battleship
 
+I am going to teach a computer to play battleship, and this is interesting becasue battleship
+is a technical game and the best way to play the game might change as the game progresses. The
+main reason this is a challenging task is that we need advanced algorithms to learn how to play
+the game, if we want our AI to play well. The learning technique needs to understand how to learn
+well. If an adult plays battelship against a toddler who makes moves randomly, the adult will win
+almost every time. Our goal is to train the computer to play less like a toddler making random 
+moves and more like a skilled adult; this is a challenging task. The fact that deep learning is
+a black box is a further difficulty since we cannot help the computer learn better since we do
+not know how it is learning exactly, and we only see performance. We hope to find that after 
+training, our AI is able to play battleship well beyond that of a random player.
