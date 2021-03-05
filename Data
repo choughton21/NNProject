@@ -1,4 +1,8 @@
 Software will be using: 
+ - Python to write the battleship game
+ - openai gym 
+ - stable baselines reinforcement learning library
 
 
 Data coming from: 
+- will be using reinforcement learning
