@@ -21,3 +21,10 @@ I will use reinforcement learning to teach a computer to play battleship. The st
    - One evaluation method: when the network plays a random agent, how often does it win?
 7. Repeat step 6, trying to improve machine's ability to win battleship games
 
+
+
+
+
+
+https://stable-baselines3.readthedocs.io/en/master/modules/dqn.html
+https://pillow.readthedocs.io/en/latest/installation.html
