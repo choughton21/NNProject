@@ -2,7 +2,17 @@ Software will be using:
  - Python to write the battleship game
  - openai gym 
  - stable baselines reinforcement learning library
+ - {{{ "what software are you going to use to build your neural network? Completely from scratch?"   }}}
 
 
 Data coming from: 
 - will be using reinforcement learning
+
+
+Input to network:
+- 
+
+Expected output from network:
+- 
+
+
