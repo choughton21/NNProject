@@ -8,9 +8,9 @@ Data coming from:
 
 
 Input to network:
-- 
+- the board game from the python battleship program I will write, and it will be a two-dimensional array
 
 Expected output from network:
-- 
+- the actions (moves) which I will represent as a one-dimensional array
 
 
