@@ -14,3 +14,14 @@ Expected output from network:
 - the actions (moves) which I will represent as a one-dimensional array
 
 
+Update 2:
+
+I have begun the progress by downlowding visual studios and writing battlehsip in java and this is in the starting phases.
+I have explored further how to use the openai gym and also what types of training might make the most sense based on some
+readings of others' projects in the board-game AI research I was able to find on Google. I have encountered issues based
+on this being new to me and sometimes the set-up actually takes a bit of time before I can actually get to the reinforcement
+learning, meat, of the project. 
+
+I am aiming for a grade of A in the class
+
+
